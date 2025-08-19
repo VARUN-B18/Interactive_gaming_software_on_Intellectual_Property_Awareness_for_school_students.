@@ -170,6 +170,11 @@ Database: Managed MongoDB Atlas / PostgreSQL
 Mobile App: Published on Google Play Store & App Store
 
 
+![Game Progress Map](/assets/game_progress_map.png)
+![System Architecture](/assets/system_architecture.png)
+![Deployment Pipeline](/assets/deployment_pipeline.png)
+![Testing Flow](/assets/testing_flow.png)
+![UI Wireframe](/assets/ui_wireframe.png)
 
 
 📊 Learning Outcomes
